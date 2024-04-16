@@ -1,7 +1,6 @@
 import os
 from typing import List
 
-
 class TextFileLoader:
     def __init__(self, path: str, encoding: str = "utf-8"):
         self.documents = []
