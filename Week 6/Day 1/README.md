@@ -17,7 +17,7 @@ In today's assignment, we'll be creating an Agentic LangChain RAG Application.
   - Part 2:
     1. Adding conditional check.
     
-The notebook Colab link is located [here](https://colab.research.google.com/drive/1ltmJHqWyZqhM9j64WoP17gGjPrV_Z49Z?usp=sharing)
+The notebook Colab link is located [here](https://colab.research.gosaogle.com/drive/1ltmJHqWyZqhM9j64WoP17gGjPrV_Z49Z?usp=sharing)
 
 ## Ship 🚢
 
